@@ -7,4 +7,5 @@ TrainMe was built for a class project. It's a fitness app using Java language. U
 ### How the App Works
 It has 3 layers so in the beginning it asks user to start workout, after pressing "Start Workout" new tab opens and it displays 4 basic coumpound exercises. When a user press "Continue Workout", it take the user to the new tab and starts the clock. 
 
+#### Screenshots
 
